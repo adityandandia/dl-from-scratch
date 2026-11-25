@@ -1,13 +1,13 @@
-# Week 2: PyTorch fluency
+# Stage 5: Efficiency (Gati bridge)
 
-**Sources:** Géron Ch 10; Karpathy makemore 1-2
+**Sources:** Géron Appendix B, Ch 17, Ch 12 GPU RAM section; Karpathy Reproduce GPT-2
 
 ## What I built
 - (one line per thing; say what was rebuilt by me vs followed along)
 
 ## What to record this week
-- makemore MLP in clean PyTorch with DataLoader
-- with vs without torch.compile
+- tokens/sec and peak memory table: fp32 vs bf16 vs torch.compile
+- warmup + repeated runs
 
 ## What broke, and how I fixed it
 - (the most useful section; be specific)

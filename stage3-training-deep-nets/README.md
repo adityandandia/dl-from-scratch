@@ -1,4 +1,4 @@
-# Week 3: Training deep nets properly
+# Stage 3: Training deep nets properly
 
 **Sources:** Géron Ch 11; Karpathy makemore 3-4
 

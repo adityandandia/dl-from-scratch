@@ -1,4 +1,4 @@
-# Week 1: Backprop and training basics
+# Stage 1: Backprop and training basics
 
 **Sources:** Géron Ch 4, Ch 9, Appendix A; Karpathy micrograd
 

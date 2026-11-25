@@ -1,13 +1,13 @@
-# Week 4: Transformers
+# Stage 2: PyTorch fluency
 
-**Sources:** Géron Ch 14 (selected), Ch 15; Karpathy Let's build GPT, Tokenizer
+**Sources:** Géron Ch 10; Karpathy makemore 1-2
 
 ## What I built
 - (one line per thing; say what was rebuilt by me vs followed along)
 
 ## What to record this week
-- tiny GPT train/val loss
-- annotated tensor shapes in the attention block
+- makemore MLP in clean PyTorch with DataLoader
+- with vs without torch.compile
 
 ## What broke, and how I fixed it
 - (the most useful section; be specific)

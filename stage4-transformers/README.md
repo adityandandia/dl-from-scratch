@@ -1,13 +1,13 @@
-# Week 5: Efficiency (Gati bridge)
+# Stage 4: Transformers
 
-**Sources:** Géron Appendix B, Ch 17, Ch 12 GPU RAM section; Karpathy Reproduce GPT-2
+**Sources:** Géron Ch 14 (selected), Ch 15; Karpathy Let's build GPT, Tokenizer
 
 ## What I built
 - (one line per thing; say what was rebuilt by me vs followed along)
 
 ## What to record this week
-- tokens/sec and peak memory table: fp32 vs bf16 vs torch.compile
-- warmup + repeated runs
+- tiny GPT train/val loss
+- annotated tensor shapes in the attention block
 
 ## What broke, and how I fixed it
 - (the most useful section; be specific)
